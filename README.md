@@ -1,5 +1,7 @@
 # Function-Generator
 The repo contains the simulation and hardware implementation for the function generator that generates the sine, square and triangular waves</br>
+### Block Diagram
+![](images/block.png)</br>
 ### Dual Polarity Source
 ![](images/Dual_polarity_Source.png)</br>
 ### Wave Generator
