@@ -13,5 +13,9 @@ The repo contains the simulation and hardware implementation for the function ge
 Square wave            |  Triangular wave
 :-------------------------:|:-------------------------:
 ![](images/square.png)  |  ![](images/triangular.png)
-### Sine 
-![](images/sine.png)
+### Sine Wave   
+<p align="center">
+  
+<img src="images/sine.png"/>
+</p>
+
